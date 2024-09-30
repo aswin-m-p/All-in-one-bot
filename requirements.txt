@@ -4,7 +4,6 @@ tgcrypto==1.2.2
 pyromod==1.5
 ffmpeg
 mediainfo
-cloudscraper
 beautifulsoup4==4.9.3
 bs4==0.0.1
 aiohttp
